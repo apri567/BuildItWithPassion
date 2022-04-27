@@ -1,30 +1,30 @@
 @font-face {
     font-family: "HelveticaNeueLTProLt.otf";
-    src: url(../fonts/HelveticaNeueLTProLt.otf) format("OpenType"); /* все современные браузеры */
+    src: url(../fonts/HelveticaNeueLTProLt.otf) format("opentype"); /* все современные браузеры */
 }
 @font-face {
     font-family: "HelveticaNeueLTProMd.otf";
-    src: url(../fonts/HelveticaNeueLTProMd.otf) format("OpenType"); /* все современные браузеры */
+    src: url(../fonts/HelveticaNeueLTProMd.otf) format("opentype"); /* все современные браузеры */
 }
 @font-face {
     font-family: "HelveticaNeueLTProRoman.otf";
-    src: url(../fonts/HelveticaNeueLTProRoman.otf) format("OpenType"); /* все современные браузеры */
+    src: url(../fonts/HelveticaNeueLTProRoman.otf) format("opentype"); /* все современные браузеры */
 }
 @font-face {
     font-family: "Merriweather-LightItalic.ttf";
-    src: url(../fonts/Merriweather-LightItalic.ttf) format("TrueType"); /* все современные браузеры */
+    src: url(../fonts/Merriweather-LightItalic.ttf) format("truetype"); /* все современные браузеры */
 }
 @font-face {
     font-family: "Montserrat-Light.ttf";
-    src: url(../fonts/Montserrat-Light.ttf) format("TrueType"); /* все современные браузеры */
+    src: url(../fonts/Montserrat-Light.ttf) format("truetype"); /* все современные браузеры */
 }
 @font-face {
     font-family: "Montserrat-Regular.ttf";
-    src: url(../fonts/Montserrat-Regular.ttf) format("TrueType"); /* все современные браузеры */
+    src: url(../fonts/Montserrat-Regular.ttf) format("truetype"); /* все современные браузеры */
 }
 @font-face {
     font-family: "Roboto-Regular.ttf";
-    src: url(../fonts/Roboto-Regular.ttf) format("TrueType"); /* все современные браузеры */
+    src: url(../fonts/Roboto-Regular.ttf) format("truetype"); /* все современные браузеры */
 }
 p {font-family: "HelveticaNeueLTProLt", Arial, sans-serif; }
 
